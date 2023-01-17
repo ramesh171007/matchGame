@@ -1,0 +1,16 @@
+.li-container {
+  list-style-type: none;
+  width: 200px;
+  margin: 10px;
+}
+.img-button {
+  background-color: rgba(255, 255, 255, 0);
+  width: 200px;
+  border: none;
+}
+.img-button:hover {
+  cursor: pointer;
+}
+.ls-image-style {
+  width: 200px;
+}
